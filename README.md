@@ -1,2 +1,2 @@
 # hello-world
-My first experience with github
+My favorite lang. is Java.
